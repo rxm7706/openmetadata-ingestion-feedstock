@@ -45,7 +45,7 @@ requirements:
     - mypy_extensions >=0.4.3
     - httpx >=0.28.0,<0.29.0
     - email_validator >=2.0
-    - setuptools >=78.1.1,<<81
+    - setuptools >=78.1.1,<81
     - boto3 >=1.20,<2.0
     - google-cloud-secret-manager ==2.24.0  # Needs Equal
     # memory_profiler is the conda-forge package name for memory-profiler pypi package
