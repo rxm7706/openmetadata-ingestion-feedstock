@@ -51,6 +51,7 @@ requirements:
     # memory_profiler is the conda-forge package name for memory-profiler pypi package
     - memory_profiler
     - jsonpatch <2.0,>=1.24
+    - tenacity >=8.0,<10
     - jinja2 >=2.11.3
     - azure-identity >=1.12,<2.0
     - importlib-metadata >=4.13.0
